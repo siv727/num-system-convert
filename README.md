@@ -1,0 +1,2 @@
+# Number System Converter
+This repository contains all the files of my number system converter. I used customtkinter for my GUI. The frontend code looks ass because I did not learn any OOP concepts because of time crunch (this was to be submitted to class). It can handle inputs from base 2 to base 36.
